@@ -1,0 +1,7 @@
+﻿__pycache__/
+*.pyc
+hadoop_stub/
+output/
+quarantine/
+data/csv/
+.spark-*/
